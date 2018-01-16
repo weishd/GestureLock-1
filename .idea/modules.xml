@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GestureLockDemo.iml" filepath="$PROJECT_DIR$/GestureLockDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestureLock1.iml" filepath="$PROJECT_DIR$/GestureLock1.iml" />
+      <module fileurl="file://G:\APPcode\demo\GestureLock1\GestureLockDemo.iml" filepath="G:\APPcode\demo\GestureLock1\GestureLockDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\APPcode\demo\GestureLock1\app\app.iml" filepath="G:\APPcode\demo\GestureLock1\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gesturelock/gesturelock.iml" filepath="$PROJECT_DIR$/gesturelock/gesturelock.iml" />
+      <module fileurl="file://G:\APPcode\demo\GestureLock1\gesturelock\gesturelock.iml" filepath="G:\APPcode\demo\GestureLock1\gesturelock\gesturelock.iml" />
       <module fileurl="file://$PROJECT_DIR$/odenlib/odenlib.iml" filepath="$PROJECT_DIR$/odenlib/odenlib.iml" />
+      <module fileurl="file://G:\APPcode\demo\GestureLock1\odenlib\odenlib.iml" filepath="G:\APPcode\demo\GestureLock1\odenlib\odenlib.iml" />
     </modules>
   </component>
 </project>

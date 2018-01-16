@@ -339,8 +339,8 @@ public class GestureLockViewGroup extends RelativeLayout {
             }
         } else {
             if (firstInputPassword.equals(mChooseString)) {
-                gesturePasswordSettingListener.onSuccess();
                 savePassword(mChooseString);
+                gesturePasswordSettingListener.onSuccess();
                 isInPasswordSettingMode = false;
             } else {
                 gesturePasswordSettingListener.onFail();
